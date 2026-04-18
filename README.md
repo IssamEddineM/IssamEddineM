@@ -1,101 +1,44 @@
-<h1 align="center">Greetings! 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Issam Eddine</a></h1>
-<h3 align="center">Lead Data & BI Consultant &#127470;&#127475</h3>
+<h1 align="center"> Greetings! 👋, I'm Issam Eddine </h1>
+<h2 align="center"> Lead Data & BI Consultant | BI Project Manager </h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
-<p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=IssamEddineM&label=Profile%20views&color=0e75b6&style=flat" alt="iampavangandhi" /> </p>  -->
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+<p>
+ <br> <br> <br>
+- I help international organizations transform complex data into actionable insights that support strategic and executive-level decision-making.
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- Since 2010, in the Data Analytics & Business Intelligence field, supporting SMEs and multinational groups across Europe, North Africa, and North America in delivering high-impact, end-to-end BI solutions.
 
-- 🤝 I’m available for freelancing.
+- I have successfully led and delivered BI projects for global leaders, including ArcelorMittal, LVMH, Orange, Sanofi, Air Liquide, Fnac Darty, Monoprix, and Géant, across industries such as luxury, retail, telecom, industry, energy, and pharmaceuticals.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- My positioning combines strong business and leadership capabilities with senior technical expertise, allowing me to act as a Lead BI Consultant, BI Architect, or BI Program Manager on complex, multi-country, and high-stakes projects. 
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-
-- 💬 Ask me about **Reactjs & React-Native**
-
-- 📫 How to reach me **saurabhchavan052@gmail.com**
-
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
-<br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-
-<p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
-      </div>
-
+- What I deliver as a Data & BI expert: </p>
+  
+<p align="left"> 
+         • BI & Data strategy aligned with business objectives <br>
+         • End-to-end BI delivery: from data warehouse to executive dashboards<br>
+         • BI platform architecture, governance, security, and performance optimization<br>
+         • KPI design, business metrics definition, and data storytelling<br>
+         • Executive and C-level reporting<br>
+         • Power BI, Azure BI, Python, Qlik (View & Sense), Tableau, Microsoft BI stack<br>
+         • ETL pipelines, data modeling (SSAS Tabular / Azure Tabular), automation<br>
+         • Training of business users and IT teams
 </p>
 
-### Blogs posts
-
-<!-- BLOG-POST-LIST:START -->
-
-- [Download Instagram profile picture using python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
-- [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
-- [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-Credit: [Issam Eddine MDALLEL](https://github.com/IssamEddineM)
-
-
-## Hey there 👋, I'm [Pavan!](https://github.com/iampavangandhi/)
-
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/iampavangandhi/)
-
-### Glad to see you here! 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampavangandhi&label=Profile%20views&color=0e75b6&style=flat" alt="iampavangandhi" /> </p>
-I am a Full Stack Developer currently leading the Tech at MyWays.ai with a mission to revolutionize how the world hires with AI. 🚀
-
-I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs, AWS, etc. I've led diverse tech teams covering Frontend, Backend, Machine Learning and DevOps and building scalable products from scratch with the commitment to making a positive impact through technology.
-
-I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
-
-Feel free to connect with me @iampavangandhi for all things tech or just to say hello! Let's shape the future of tech together. 🌟
-
-Joined Github **7** years ago.
-
-Since then I pushed **3572**+ commits, opened **229**+ issues, submitted **605**+ pull requests, created **20**+ gists and contributed to **5**+ public repositories.
-
-<hr>
-<h3 align="left">✨ Random Dev Quote::</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+ - I typically intervene on:
+<p>
+ • End-to-end BI platform build or modernization<br>
+ • Post-merger / multi-subsidiary data consolidation<br>
+ • Global reporting and performance management programs<br>
+ • BI governance and scale-up initiatives<br>
 </p>
-<hr>
 
-Like My Work?
+ - Portfolio & Details @ https://www.mdallel.com
 
-<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
-
+<!-- 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuff:
@@ -160,8 +103,8 @@ Like My Work?
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
-
-</div>
 
 
+</div>  -->
+
+Credit: [Issam Eddine MDALLEL](https://github.com/IssamEddineM)
