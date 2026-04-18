@@ -2,11 +2,11 @@
 <h2 align="center"> Lead Data & BI Consultant | BI Project Manager </h2>
 
 
-
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=IssamEddineM&label=Profile%20views&color=0e75b6&style=flat" alt="iampavangandhi" /> </p>  -->
 
 <p>
- <br> <br> <br>
+ <br> <br>  </p>
+ 
 - I help international organizations transform complex data into actionable insights that support strategic and executive-level decision-making.
 
 - Since 2010, in the Data Analytics & Business Intelligence field, supporting SMEs and multinational groups across Europe, North Africa, and North America in delivering high-impact, end-to-end BI solutions.
@@ -15,7 +15,7 @@
 
 - My positioning combines strong business and leadership capabilities with senior technical expertise, allowing me to act as a Lead BI Consultant, BI Architect, or BI Program Manager on complex, multi-country, and high-stakes projects. 
 
-- What I deliver as a Data & BI expert: </p>
+- What I deliver as a Data & BI expert:
   
 <p align="left"> 
          • BI & Data strategy aligned with business objectives <br>
@@ -34,7 +34,7 @@
  • Post-merger / multi-subsidiary data consolidation<br>
  • Global reporting and performance management programs<br>
  • BI governance and scale-up initiatives<br>
-</p>
+
 
  - Portfolio & Details @ https://www.mdallel.com
 
