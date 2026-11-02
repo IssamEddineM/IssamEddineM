@@ -36,7 +36,7 @@
  • BI governance and scale-up initiatives<br>
 
 
- - Portfolio & Details @ https://www.mdallel.com
+ - Portfolio & Details @ https://www.IssamEddine.com
 
 <!-- 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
@@ -107,4 +107,4 @@
 
 </div>  -->
 
-Credit: [Issam Eddine MDALLEL](https://github.com/IssamEddineM)
+Credit: [Issam Eddine M](https://github.com/IssamEddineM)
