@@ -92,6 +92,7 @@ I work directly with executives, business teams and IT, and I run projects in **
 - Helped business teams identify key questions and define the KPIs behind them, then turned results into clear data stories.
 - Implemented secure data access policies that keep business units compliant.
 - Trained end users on self-service BI and IT teams on platform governance.
+- Clients included LVMH, Dior, ArcelorMittal, Orange, Fnac Darty, Babilou, Se Loger and Sanofi.
 
 `Power BI` `Azure Analysis Services` `SSAS Tabular` `DAX` `QlikView` `Python`
 
